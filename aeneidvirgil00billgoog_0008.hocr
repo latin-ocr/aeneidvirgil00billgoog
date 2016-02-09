@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aeneidvirgil00billgoog_0008.png"; bbox 0 0 3584 4522; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 190 1729 1067">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 110 139 1729 1067">
+     <span class='ocr_line' id='line_1_1' title="bbox 270 190 1699 706; baseline -0.015 -45.417"><span class='ocrx_word' id='word_1_1' title='bbox 270 256 296 330; x_wconf 36' lang='lat'>&#39;¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 411 190 1699 706; x_wconf 23' lang='lat' dir='ltr'>§THEQAENEAEIDJJ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 120 742 1729 1067; baseline 0 -83"><span class='ocrx_word' id='word_1_3' title='bbox 120 801 125 809; x_wconf 90' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 440 745 714 984; x_wconf 82' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_5' title='bbox 848 742 1729 1067; x_wconf 53' lang='lat' dir='ltr'>YIRGILs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 440 1024 1665 1202">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 440 1024 1665 1202">
+     <span class='ocr_line' id='line_1_3' title="bbox 440 1024 1665 1202; baseline -0.002 -1"><span class='ocrx_word' id='word_1_6' title='bbox 440 1083 685 1202; x_wconf 79' lang='lat' dir='ltr'>WITH</span> <span class='ocrx_word' id='word_1_7' title='bbox 745 1087 804 1200; x_wconf 89' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_8' title='bbox 852 1024 1497 1201; x_wconf 59' lang='lat' dir='ltr'>fRANsLATloN</span> <span class='ocrx_word' id='word_1_9' title='bbox 1559 1088 1665 1201; x_wconf 71' lang='grc' dir='ltr'>ΒΥ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 441 1310 1654 1490">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 441 1310 1654 1490">
+     <span class='ocr_line' id='line_1_4' title="bbox 441 1310 1654 1490; baseline -0.001 -47"><span class='ocrx_word' id='word_1_10' title='bbox 441 1311 880 1443; x_wconf 83' lang='lat' dir='ltr'>CHARLES</span> <span class='ocrx_word' id='word_1_11' title='bbox 910 1313 965 1490; x_wconf 80' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_12' title='bbox 993 1310 1433 1471; x_wconf 77' lang='lat' dir='ltr'>sslLLsoN‚</span> <span class='ocrx_word' id='word_1_13' title='bbox 1463 1311 1654 1443; x_wconf 79' lang='lat' dir='ltr'>MA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1796 4522">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1796 4522">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1796 4522; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1796 4522; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
